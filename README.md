@@ -1,10 +1,5 @@
 # Startum-Millenium
- __ _             _                        _ _ _            _                 
-/ _\ |_ __ _ _ __| |_ _   _ _ __     /\/\ (_) | | ___ _ __ (_)_   _ _ __ ___  
-\ \| __/ _` | '__| __| | | | '_ \   /    \| | | |/ _ \ '_ \| | | | | '_ ` _ \ 
-_\ \ || (_| | |  | |_| |_| | |_) | / /\/\ \ | | |  __/ | | | | |_| | | | | | |
-\__/\__\__,_|_|   \__|\__,_| .__/  \/    \/_|_|_|\___|_| |_|_|\__,_|_| |_| |_|
-                           |_|                                                
+
 The program helps you to get achievement 'Startup Millenium' in Garry's mod for the start the game 1000 times. Check the README file.
 How the program works? This program startup the Garry's mod required times.
 Okay, let's go.
